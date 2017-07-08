@@ -1,0 +1,3 @@
+module MyResponders
+  # Your code goes here...
+end
