@@ -3,7 +3,6 @@ PATH
   specs:
     my_responders (0.1.0)
       rails (~> 5.1.2)
-      responders
 
 GEM
   remote: https://rubygems.org/
@@ -116,6 +115,7 @@ PLATFORMS
 
 DEPENDENCIES
   my_responders!
+  responders
   sqlite3
 
 BUNDLED WITH
